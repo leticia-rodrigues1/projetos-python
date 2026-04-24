@@ -1,8 +1,8 @@
-# 🐍 Projetos em Python
+#  Projetos em Python
 
 Este repositório reúne meus estudos iniciais em Python, com exercícios práticos focados em lógica de programação e fundamentos essenciais.
 
-## 📚 Conteúdos abordados
+## Conteúdos abordados
 
 Durante esses estudos, pratiquei:
 
@@ -26,7 +26,7 @@ Durante esses estudos, pratiquei:
   
 - Manipulação de textos
 
-## 📂 Estrutura dos arquivos
+##  Estrutura dos arquivos
 
 | Arquivo | Descrição |
 |--------|---------|
@@ -43,11 +43,11 @@ Durante esses estudos, pratiquei:
 | `praticandotudo.py` | Exercícios gerais |
 | `exerciciodicionario.py` | Exercício prático com dicionários |
 
-## 🚀 Objetivo
+##  Objetivo
 
 Consolidar a base em programação com Python para evolução na área de dados, incluindo análise de dados, automação e desenvolvimento de projetos práticos.
 
-## 👩‍💻 Sobre mim
+##  Sobre mim
 
 Sou estudante de Análise e Desenvolvimento de Sistemas, em transição para a área de dados, com foco em:
 
@@ -60,9 +60,4 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, em transição para a �
 Buscando oportunidades como Analista de Dados Júnior.
 
 ✨ Repositório em constante evolução
-Se quiser, próximo passo:
 
-👉 organizar esse repositório em níveis (iniciante/intermediário)
-👉 ou montar seu portfólio completo (Python + SQL + Power BI)
-
-Só falar: “vamos profissionalizar tudo” 😄# projetos-python
