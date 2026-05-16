@@ -57,7 +57,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, em transição para a �
   
 - Power BI
 
-Buscando oportunidades como Analista de Dados Júnior.
+- Buscando oportunidades como Analista de Dados Júnior.
 
-✨ Repositório em constante evolução
+## Repositório em constante evolução
 
